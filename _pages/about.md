@@ -16,7 +16,7 @@ I am a Ph.D. candidate in Economics at Pennsylvania State University. My researc
 
 I am on the job market for the 2025-2026 academic year.
 
-My job market paper: [Link](https://drive.google.com/file/d/195-RpW3Ku2VvE6M83sJv4QrXyDOzeDVZ/view)
+My job market paper: [Link](https://lujie-zhou.github.io/files/jmp_zhou.pdf)
 
 My CV: [Link](https://lujie-zhou.github.io/files/CV_Zhou.pdf)
 
