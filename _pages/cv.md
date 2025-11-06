@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Download PDF [here](https://drive.google.com/file/d/1mu_xTxgMCUJsCIpJP8ia_XYF1nhdt5CE/view?usp=drive_link)
+Download PDF [here](https://lujie-zhou.github.io/files/CV_Zhou.pdf)
 
 ### Education
 * Ph.D. in Economics, Penn State, 2026 (expected)
