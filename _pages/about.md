@@ -18,7 +18,7 @@ I am on the job market for the 2025-2026 academic year.
 
 My job market paper: [Link](https://drive.google.com/file/d/195-RpW3Ku2VvE6M83sJv4QrXyDOzeDVZ/view)
 
-My CV: [Link](https://drive.google.com/file/d/1mu_xTxgMCUJsCIpJP8ia_XYF1nhdt5CE/view?usp=drive_link)
+My CV: [Link](https://lujie-zhou.github.io/files/CV_Zhou.pdf)
 
 Email: [lbz5158@psu.edu](mailto:lbz5158@psu.edu)
 
