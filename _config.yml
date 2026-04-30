@@ -23,11 +23,11 @@ repository               : "lujie-zhou/lujie-zhou.github.io"
 author:
   # Biographic information
   avatar           : "Zhou_Roger.jpg"
-  name             : "Lujie (Roger) Zhou, Ph.D."
+  name             : "Lujie (Roger) Zhou"
   pronouns         : # example: "she/her"  
-  bio              : "Capital One"
-  location         : "Washington Metro Area"
-  employer         : "Penn State University"
+  bio              : ""
+  location         : "DC Metro Area"
+  employer         : "Penn State"
   uri              : # URL
   email            : #"lbz5158@psu.edu" 
   linkedin         : "lujie-roger-zhou-579789a1" # Username
