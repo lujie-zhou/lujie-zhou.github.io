@@ -23,7 +23,9 @@ redirect_from:
 * Machine Learning
 * Social Network Analysis
   
+<!--
 ### Referee Service
 * Econometric Reviews
 
-<!-- [PDF](https://lujie-zhou.github.io/files/CV_Zhou.pdf) -->
+[PDF](https://lujie-zhou.github.io/files/CV_Zhou.pdf) 
+-->
