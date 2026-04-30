@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Download PDF [here](https://lujie-zhou.github.io/files/CV_Zhou.pdf)
+
 
 ### Education
 * Ph.D. in Economics, Penn State, 2026
@@ -25,3 +25,5 @@ Download PDF [here](https://lujie-zhou.github.io/files/CV_Zhou.pdf)
   
 ### Referee Service
 * Econometric Reviews
+
+[PDF](https://lujie-zhou.github.io/files/CV_Zhou.pdf)
